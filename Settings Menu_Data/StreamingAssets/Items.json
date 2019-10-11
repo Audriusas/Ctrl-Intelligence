@@ -1,0 +1,19 @@
+[
+	{
+		"id":0,
+		"title":"Water",
+		"value":6,
+		"description":"You can drink it.",
+		"stackable":true,
+		"slug":"drop"
+		
+		
+	}
+	{
+		"id":1,
+		"title":"Stone",
+		"value":6,
+		"stackable":true,
+		"slug":"stone"
+	}
+]
